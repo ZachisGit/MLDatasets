@@ -1,0 +1,12 @@
+horse2zebra;unsupervised_image_translation;dataset used in the cyclegan paper for unsupervised horse to zebra image translation;https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/horse2zebra.zip
+apple2orange;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/apple2orange.zip
+summer2winter_yosemite;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/summer2winter_yosemite.zip
+cezanne2photo;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/cezanne2photo.zip
+ukiyoe2photo;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/ukiyoe2photo.zip
+vangogh2photo;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/vangogh2photo.zip
+maps;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/maps.zip
+cityscapes;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/cityscapes.zip
+facades;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/facades.zip
+iphone2dslr_flower;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/iphone2dslr_flower.zip
+ae_photos;unsupervised_image_translation;used for unsupervised image to image translation (from cyclegan the repo);https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/ae_photos.zip
+mnist;classification;digit classification 0-9 (info link: http://yann.lecun.com/exdb/mnist/);http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz;http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz;http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz;http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
