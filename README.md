@@ -1,7 +1,7 @@
 # MLDatasets
 Python library that hosts/formats datasets.
 
-This is going to be a easy to use ML dataset hosting/formating library intended to make it easy to download/preprocess/format/etc. your datasets.
+This is going to be an easy to use ML dataset hosting/formating library intended to make it easy to download/preprocess/format/etc. your datasets.
 
 # First Steps
 The first area that will be targeted are image based datasets for classification, image segmentation, image translation and object detection (bounding boxes).
